@@ -27,10 +27,10 @@ weight = 1
 
 # Biography
 
-Hana Fatima is a student of Seventh Grade at the Rosary Convent High School. Her interests include distributed & mobile computing and programmable matter. 
+Hana Fatima is a student of Seventh Grade at the Rosary Convent High School. Her interests include distributed & mobile computing and programmable matter.
 
-Her goal is to become Computer Scientist and one day she would like to win Noble Prize award.
+Her goal is to become Computer Scientist and one day she would like to win Nobel Prize award.
 
-She likes travel a lot and has some of the places like Paris, Belgium, etc are on her wish list. 
+She likes travel and has some of the cool places like Paris, Belgium, etc are on her wishlist.
 
-Apart from Computer Science She likes literature and poetry.
+Apart from Computer Science, she likes literature and poetry.
