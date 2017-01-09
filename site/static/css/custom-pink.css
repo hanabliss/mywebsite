@@ -1,0 +1,18 @@
+.home-section {
+  background-color: rgb(253, 103, 223);
+}
+#profile .portrait-title h2 {
+  color: #FFF;
+}
+
+#profile .portrait-title h3 {
+  color: rgba(255,255,255,0.7);
+}
+
+ul.social-icon a {
+    color: rgba(255,201,244,1);
+}
+
+.home-section:nth-of-type(odd) {
+    color: #FFF;
+}
