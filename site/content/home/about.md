@@ -27,6 +27,10 @@ weight = 1
 
 # Biography
 
-Hana Fatima is a student of Seventh Grade at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hana Fatima is a student of Seventh Grade at the Rosary Convent High School. Her interests include distributed & mobile computing and programmable matter. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her goal is to become Computer Scientist and one day she would like to win Noble Prize award.
+
+She likes travel a lot and has some of the places like Paris, Belgium, etc are on her wish list. 
+
+Apart from Computer Science She likes literature and poetry.
