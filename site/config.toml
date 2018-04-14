@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Hana Fatima"
-copyright = "&copy; 2017 Hana Fatima"
+copyright = "&copy; 2018 Hana Fatima"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,11 +20,11 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Hana Fatima"
-  role = "Seventh Grade"
+  role = "Ninth Grade"
   organization = "Rosary Convent High School"
   avatar = "portrait.jpg"
   email = "hana4joy@gmail.com"
-  address = "Chirag Ali Lane, Abids, Hyderabad, Telangana 500001"
+  address = "Gunfoundry, Abids, Hyderabad, Telangana 500001"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"

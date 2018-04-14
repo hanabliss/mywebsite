@@ -19,15 +19,15 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Seventh Grade"
+  course = "Ninth Grade"
   institution = "Rosary Convent High School"
-  year = 2017
+  year = 2018
 
 +++
 
 # Biography
 
-Hana Fatima is a student of Seventh Grade at the Rosary Convent High School. Her interests include distributed & mobile computing and programmable matter.
+Hana Fatima is a student of Ninth grade  at the Rosary Convent High School. Her interests include distributed & mobile computing and programmable matter.
 
 Her goal is to become Computer Scientist and one day she would like to win Nobel Prize award.
 
